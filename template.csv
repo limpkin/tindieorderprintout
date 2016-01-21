@@ -1,0 +1,95 @@
+'bot1_shipping';'T';50;250;150;258;'Arial';12;False;False;False;0;16777215;'L';'Shipping';0
+'bot1_shipping_title';'T';16;250;150;258;'Arial';12;False;False;False;0;16777215;'L';'Shipping :';0
+'bot2_discount';'T';50;258;150;266;'Arial';12;False;False;False;0;16777215;'L';'Discount';0
+'bot2_discount_title';'T';16;258;150;266;'Arial';12;False;False;False;0;16777215;'L';'Discount :';0
+'bot3_total';'T';50;266;150;274;'Arial';14;True;False;False;0;16777215;'L';'Total';0
+'bot3_total_title';'T';16;266;150;274;'Arial';14;True;False;False;0;16777215;'L';'Total :';0
+'bot3_zlines';'L';15;250;15;274;'';0.50;False;False;False;0;0;'';'';1
+'bot3_zlines';'L';15;250;73;250;'';0.50;False;False;False;0;0;'';'';1
+'bot3_zlines';'L';15;258;73;258;'';0.50;False;False;False;0;0;'';'';1
+'bot3_zlines';'L';15;266;73;266;'';0.50;False;False;False;0;0;'';'';1
+'bot3_zlines';'L';15;274;73;274;'';0.50;False;False;False;0;0;'';'';1
+'bot3_zlines';'L';73;250;73;274;'';0.50;False;False;False;0;0;'';'';1
+'bot3_zlines';'L';45;250;45;274;'';0.50;False;False;False;0;0;'';'';1
+'mid1_1prod';'T';15;170;145;178;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid1_2quant';'T';145;170;155;178;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid1_3unit';'T';155;170;175;178;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid1_4tot';'T';175;170;195;178;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid2_1prod';'T';15;178;145;186;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid2_2quant';'T';145;178;155;186;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid2_3unit';'T';155;178;175;186;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid2_4tot';'T';175;178;195;186;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid3_1prod';'T';15;186;145;194;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid3_2quant';'T';145;186;155;194;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid3_3unit';'T';155;186;175;194;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid3_4tot';'T';175;186;195;194;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid4_1prod';'T';15;194;145;202;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid4_2quant';'T';145;194;155;202;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid4_3unit';'T';155;194;175;202;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid4_4tot';'T';175;194;195;202;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid5_1prod';'T';15;202;145;210;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid5_2quant';'T';145;202;155;210;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid5_3unit';'T';155;202;175;210;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid5_4tot';'T';175;202;195;210;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid6_1prod';'T';15;210;145;218;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid6_2quant';'T';145;210;155;218;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid6_3unit';'T';155;210;175;218;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid6_4tot';'T';175;210;195;218;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid7_1prod';'T';15;218;145;226;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid7_2quant';'T';145;218;155;226;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid7_3unit';'T';155;218;175;226;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid7_4tot';'T';175;218;195;226;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid8_1prod';'T';15;226;145;234;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid8_2quant';'T';145;226;155;234;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid8_3unit';'T';155;226;175;234;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid8_4tot';'T';175;226;195;234;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid9_1prod';'T';15;234;145;242;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid9_2quant';'T';145;234;155;242;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid9_3unit';'T';155;234;175;242;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid9_4tot';'T';175;234;195;242;'Arial';12;False;False;False;0;16777215;'C';'';0
+'mid_1prod';'T';15;160;145;170;'Arial';12;True;False;False;0;16777215;'C';'Product';0
+'mid_2quant';'T';145;160;155;170;'Arial';12;True;False;False;0;16777215;'C';'Qty';0
+'mid_3unit';'T';155;160;175;170;'Arial';12;True;False;False;0;16777215;'C';'Price';0
+'mid_4tot';'T';175;160;195;170;'Arial';12;True;False;False;0;16777215;'C';'Total';0
+'midz_lines';'L';15;160;15;242;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';145;160;145;242;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';155;160;155;242;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';175;160;175;242;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;160;195;160;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;170;195;170;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;178;195;178;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;186;195;186;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;194;195;194;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;202;195;202;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;210;195;210;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;218;195;218;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;226;195;226;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;234;195;234;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';15;242;195;242;'';0.50;False;False;False;0;0;'';'';1
+'midz_lines';'L';195;160;195;242;'';0.50;False;False;False;0;0;'';'';1
+'ship1_method';'T';18;131;155;138;'Arial';12;False;False;False;0;16777215;'L';'-- method --';0
+'ship1_method_title';'T';15;120;155;130;'Arial';12;True;False;False;0;16777215;'C';'Shipping Method';0
+'ship1_notes';'T';18;138;155;145;'Arial';12;False;False;False;0;16777215;'L';'-- notes --';0
+'ship1_zlines';'L';15;120;15;146;'';0.50;False;False;False;0;0;'';'';1
+'ship1_zlines';'L';155;120;155;146;'';0.50;False;False;False;0;0;'';'';1
+'ship1_zlines';'L';15;146;155;146;'';0.50;False;False;False;0;0;'';'';1
+'ship1_zlines';'L';15;120;155;120;'';0.50;False;False;False;0;0;'';'';1
+'ship1_zlines';'L';15;130;155;130;'';0.50;False;False;False;0;0;'';'';1
+'ship2_1address_title';'T';15;65;155;75;'Arial';12;True;False;False;0;16777215;'C';'Shipping Address';0
+'ship2_2name';'T';18;77;155;83;'Arial';12;False;False;False;0;16777215;'L';'-- Name --';0
+'ship2_3address';'T';18;83;155;89;'Arial';12;False;False;False;0;16777215;'L';'-- address --';0
+'ship2_4citystate';'T';18;89;155;95;'Arial';12;False;False;False;0;16777215;'L';'-- City, State --';0
+'ship2_5postcode';'T';18;95;155;101;'Arial';12;False;False;False;0;16777215;'L';'-- postcode --';0
+'ship2_6country';'T';18;101;89;107;'Arial';12;False;False;False;0;16777215;'L';'-- country --';0
+'ship2_7phone';'T';18;107;103;113;'Arial';12;False;False;False;0;16777215;'L';'-- phone --';0
+'ship2_zlines';'L';15;65;15;114;'';0.50;False;False;False;0;0;'';'';1
+'ship2_zlines';'L';15;65;155;65;'';0.50;False;False;False;0;0;'';'';1
+'ship2_zlines';'L';15;75;155;75;'';0.50;False;False;False;0;0;'';'';1
+'ship2_zlines';'L';15;114;155;114;'';0.50;False;False;False;0;0;'';'';1
+'ship2_zlines';'L';155;65;155;114;'';0.50;False;False;False;0;0;'';'';1
+'top1_1logo';'I';15;15;45;45;'Arial';12;False;False;False;0;16777215;'L';'';0
+'top1_2ordernumber';'T';15;50;140;55;'Helvetica';14;True;False;False;0;16777215;'L';'-- Order number --';0
+'top1_3date';'T';15;55;140;62;'Arial';12;False;False;False;0;16777215;'L';'-- date --';0
+'topr_1storename';'T';160;16;205;22;'Arial';12;False;True;False;0;16777215;'L';'Limpkin\'s Online Store';0
+'topr_2storename';'T';160;22;205;28;'Arial';12;False;True;False;0;16777215;'L';'http://www.limpkin.fr';0
+'topr_3storename';'T';160;28;205;34;'Arial';12;False;True;False;0;16777215;'L';'limpkin@limpkin.fr';0
